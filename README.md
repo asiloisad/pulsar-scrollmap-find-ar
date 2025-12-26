@@ -1,6 +1,6 @@
 # scrollmap-find-ar
 
-Find-and-replace result markers for [scrollmap](https://github.com/asiloisad/pulsar-scrollmap). Requires [find-and-replace](https://web.pulsar-edit.dev/packages/find-and-replace) or [find-and-replace-plus](https://github.com/asiloisad/pulsar-find-and-replace-plus) package.
+Find-and-replace result markers for [scrollmap](https://github.com/asiloisad/pulsar-scrollmap). Requires [find-and-replace](https://web.pulsar-edit.dev/packages/find-and-replace) or [search-panel](https://github.com/asiloisad/pulsar-search-panel) package.
 
 ## Installation
 
