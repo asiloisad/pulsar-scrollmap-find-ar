@@ -29,20 +29,20 @@
     }
   },
   "configSchema": {
-    "permanent": {
-      "order": 1,
-      "type": "boolean",
-      "title": "Permanent view",
-      "description": "Keep markers visible even when the find panel is closed.",
-      "default": true
-    },
     "threshold": {
-      "order": 2,
+      "order": 1,
       "type": "integer",
       "title": "Threshold",
       "description": "Hide markers if count exceeds this value. Zero means no limit.",
       "minimum": 0,
       "default": 0
+    },
+    "permanent": {
+      "order": 2,
+      "type": "boolean",
+      "title": "Permanent view",
+      "description": "Keep markers visible even when the find panel is closed.",
+      "default": true
     }
   }
 }
