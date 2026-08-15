@@ -4,7 +4,7 @@ Show find-and-replace results on the scrollbar.
 
 ## Installation
 
-To install `scrollmap-find-ar` search for [scrollmap-find-ar](https://web.pulsar-edit.dev/packages/scrollmap-find-ar) in the Install pane of the Pulsar settings or run `ppm install scrollmap-find-ar`. Alternatively, you can run `ppm install asiloisad/pulsar-scrollmap-find-ar` to install a package directly from the GitHub repository.
+To install `scrollmap-find-ar` search for [scrollmap-find-ar](https://web.pulsar-edit.dev/packages/scrollmap-find-ar) in the Install pane of the Pulsar settings or run `ppm install scrollmap-find-ar`. Alternatively, you can run `ppm install asiloisad-pulsar/scrollmap-find-ar` to install a package directly from the GitHub repository.
 
 Layer package for [scrollmap](https://github.com/asiloisad-pulsar/scrollmap).
 
