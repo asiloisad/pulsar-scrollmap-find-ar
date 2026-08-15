@@ -1,7 +1,7 @@
 {
   "name": "scrollmap-find-ar",
   "description": "Show find-and-replace results on the scrollbar",
-  "repository": "https://github.com/asiloisad/pulsar-scrollmap-find-ar",
+  "repository": "https://github.com/asiloisad-pulsar/scrollmap-find-ar",
   "keywords": [
     "scrollmap",
     "find",
